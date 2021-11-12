@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valentin-source
-- 👀 I’m interested in java, cryptography, ants and goldsmithing
+- 👀 I’m interested in java, php, 
 - 🌱 I’m currently learning java, networking fundamentals, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
