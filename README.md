@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentin-source
 - 👀 I’m interested in java, IT-Security, Economics
-- 🌱 I’m currently learning java, networking fundamentals, Java
+- 🌱 I’m currently learning Java & networking fundamentals
 - 📫 How to reach me: et99e3bg9@mozmail.com
 
 <!---
