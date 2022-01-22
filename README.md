@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @valentin-source
+# 👋 Hi there!
+
+## About me
+
+- 👋 Hi, I'm Valentin, a business informatics student from Germany
 - 👀 I’m interested in java, IT-security, data visualisation, economics
-- 📚 currently studying business informatics
-- 🌱 outside of study i'm learning networking fundamentals
+- 📚 studying business informatics as mentioned above, currently in my 1st semester
+- 🌱 outside of study i'm learning networking fundamentals & ukulele
 - 📫 How to reach me: et99e3bg9@mozmail.com
